@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏦 Meridian Bank — Customer Churn Analytics
+# 🏦 NovaBC Bank — Customer Churn Analytics
 **Databricks Lakehouse · PySpark · Spark SQL · Delta Lake · Power BI**
 
 *An end-to-end analytics pipeline that turns 80,000 raw banking records into retention intelligence — identifying not just who churned, but who's about to.*
